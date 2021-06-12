@@ -1,4 +1,4 @@
-# Stock Info Table Builder
+# 🏦 Stock Info Table Builder
  Builds a .CSV file (for Excel, Sheets, Numbers, etc) of the US Stock Market:
  
  Requires [Node.js + NPM](https://nodejs.org/en/) and a starter account on [FMPCloud](https://fmpcloud.io/)
@@ -15,7 +15,7 @@ The script shows loading progress and takes about ~20-40 min to run due to multi
 
 **DISCLAIMER:** _The code's user is solely responsible for verifying the validity of all data downloaded and the author of this script is not liable for any consequences of running the script or doing research from it. Before you pay for FMPCloud, note that the script is a personal project and is not guaranteed to work with FMPCloud. Use at your own risk._
 
-### Table columns included:
+## Table columns included:
 * Symbol
 * Name
 * Exchange
@@ -78,3 +78,48 @@ The script shows loading progress and takes about ~20-40 min to run due to multi
 * inventoryTurnoverTTM
 * roeTTM
 * capexPerShareTTM
+
+
+## List of possible exchanges:
+* NYSE Arca
+* Nasdaq Global Select
+* New York Stock Exchange
+* NASDAQ Global Market
+* NASDAQ Capital Market
+* BATS Exchange
+* NYSE American
+* Nasdaq
+* NYSE
+* NasdaqGM
+* Other OTC
+* YHD
+* Paris
+* Amsterdam
+* Brussels
+* Lisbon
+* Toronto
+* NYSEArca
+* BATS
+* Swiss
+* MCX
+* XETRA
+* NSE
+* LSE
+* SIX
+* HKSE
+* ASX
+* OSE
+* Sao Paolo
+* TSXV
+* Frankfurt
+* NMS
+* HKG
+* NCM
+* MCE
+* ASE
+* OSL
+* Oslo
+* FGI
+* Irish
+* NasdaqGS
+* NasdaqCM
