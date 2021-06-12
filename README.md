@@ -3,7 +3,7 @@
  
  Requires [Node.js + NPM](https://nodejs.org/en/) and a starter account on [FMPCloud](https://fmpcloud.io/)
 
-1) Get a starter account on fmpcloud.io
+1) After getting a starter account on fmpcloud.io ...
 2) Replace `YOUR_API_KEY` in index.js with your FMPCloud API key (from the Dashboard)
 3) Go to project root directory in Terminal and run...
 4) $ `npm install` to get your Node modules ready for running the script
@@ -13,7 +13,7 @@ As of March 2021, there were ~10k stocks returned and ~6k from exchanges with su
 
 The script shows loading progress and takes about ~20-40 min to run due to multiple API paths and rate limiting.
 
-**DISCLAIMER:** _The code user is solely responsible for verifying the validity of all data downloaded and the author of this script is not liable for any consequences of running the script or doing research from it. Note that the script is not guaranteed to work with FMPCloud before paying for it. Use at your own risk._
+**DISCLAIMER:** _The code's user is solely responsible for verifying the validity of all data downloaded and the author of this script is not liable for any consequences of running the script or doing research from it. Before you pay for FMPCloud, note that the script is a personal project and is not guaranteed to work with FMPCloud. Use at your own risk._
 
 ### Table columns included:
 * Symbol,
