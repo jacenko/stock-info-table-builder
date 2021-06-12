@@ -1,5 +1,5 @@
 # Stock Info Table Builder
- Builds a .CSV file (for Excel, Sheets, Numbers, etc) of the US Stock Market with the following data:
+ Builds a .CSV file (for Excel, Sheets, Numbers, etc) of the US Stock Market:
 
 1) Get a starter account on fmpcloud.io
 2) Replace YOUR_API_KEY with your FMPCloud API key
