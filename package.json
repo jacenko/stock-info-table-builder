@@ -1,0 +1,28 @@
+{
+  "name": "stock-info-table-builder",
+  "version": "0.1",
+  "description": "Builds a CSV of the US Stock Market",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deniss Jacenko",
+  "license": "MIT",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "https": "^1.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "axios-rate-limit": "^1.3.0",
+    "cli-progress": "^3.9.0",
+    "colors": "^1.4.0",
+    "csv-parser": "^2.3.3",
+    "node-fetch": "^2.6.1",
+    "p-ratelimit": "^1.0.1",
+    "request": "^2.88.2",
+    "simple-rate-limiter": "^0.2.3"
+  }
+}
