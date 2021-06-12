@@ -1,10 +1,13 @@
 # Stock Info Table Builder
  Builds a .CSV file (for Excel, Sheets, Numbers, etc) of the US Stock Market:
+ 
+ Requires [Node.js and NPM](https://nodejs.org/en/)
 
 1) Get a starter account on fmpcloud.io
 2) Replace `YOUR_API_KEY` in index.js with your FMPCloud API key (from the Dashboard)
-3) $ npm install
-4) $ npm start
+3) Go to project root directory in Terminal and run...
+4) $ `npm install` to get your Node modules ready for running the script
+5) $ `npm start` to run the script
 
 As of March 2021, there were ~10k stocks returned and ~6k from exchanges with sufficient data. 
 
