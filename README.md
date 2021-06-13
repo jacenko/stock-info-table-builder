@@ -1,5 +1,5 @@
 # 🏦 Stock Info Table Builder
- Builds a .CSV file (for Excel, Sheets, Numbers, etc) of the US Stock Market:
+ Builds a detailed .CSV report (for Excel, Sheets, Numbers, etc) of the US Stock Market:
  
  Requires [Node.js + NPM](https://nodejs.org/en/) and a starter account on [FMPCloud](https://fmpcloud.io/)
 
