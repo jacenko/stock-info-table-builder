@@ -85,7 +85,6 @@ axios.get(stocksUrl)
   }, 1000 / updatesPerSecond);
 
   Promise.all(promiseArr).then(res => {
-    /* do something with res here... */
     stockMetrics.push(res);
   })
 
@@ -110,7 +109,6 @@ axios.get(stocksUrl)
   })
 })
 .catch(function (error) {
-  // handle error
   console.log(error);
 })
 
